@@ -48,9 +48,11 @@ The analysis is implemented using **Python** with the following libraries:
 1. Clone the repository:
    ```bash
    git clone https://github.com/username/titanic-eda.git
-2.Install the required libraries:
+2. Install the required libraries:
+   ```bash
   pip install -r requirements.txt
-3.Run the Jupyter Notebook:
+3. Run the Jupyter Notebook:
+   ```bash
   jupyter notebook Titanic_EDA.ipynb
 
 ## 📎 Project Structure
@@ -60,5 +62,5 @@ The analysis is implemented using **Python** with the following libraries:
 └── dataset/              # Titanic dataset (if included)
 
 ## 📌 Future Work
-1.Feature engineering for ML models
-2.Predictive modeling (Logistic Regression, Random Forest, etc.)
+1. Feature engineering for ML models
+2. Predictive modeling (Logistic Regression, Random Forest, etc.)
